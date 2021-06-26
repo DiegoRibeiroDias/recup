@@ -1,0 +1,164 @@
+body {
+    font: 1em/150% Arial, Helvetica, sans-serif;
+    height: 100%;
+    margin: 0;
+
+}
+
+.topo {
+    background-color: black;
+    color: deepskyblue;
+    width:auto;
+    height:20%;
+    text-align: center;
+}
+
+.menu {
+    max-width: 130%;
+    max-height: 200px;
+    padding:1% 2%;
+    border:1px solid black;
+    border-radius:2px;
+    margin-right:5px;
+
+    font-weight:700;
+    text-decoration:none;
+
+}
+
+.main {
+    background-color: black;
+    color: deepskyblue;
+
+}
+
+.texto1 {
+    background-color: black;
+    color: deepskyblue;
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-decoration:none;
+    padding-top: 7%;
+    padding-bottom: 3%;
+}
+
+.ul {
+background-size: 50% 100%;
+    background-image: url(../imagens/1102269.jpg);
+    background-color: black;
+    color: tomato;
+    text-align: center;
+    margin-left: 12%;
+    margin-right: 15%;
+    text-decoration:none;
+    padding-bottom: 5%;
+    text-align: justify;
+
+}
+
+.texto2 {
+    background-size: 33% 100%;
+    background-image: url(../imagens/god.png);
+    background-color: black;
+    color: deepskyblue;
+    text-align: center;
+    margin-left: 12%;
+    margin-right: 15%;
+    padding-bottom: 50px;
+    padding-top: 10px;
+    text-decoration:none;
+    text-align: justify;
+    margin-bottom: 0;
+}
+
+.texto3 {
+    background-color: black;
+    color: deepskyblue;
+    text-align: center;
+    margin-left: 12%;
+    margin-right: 15%;
+    padding-bottom: 50px;
+    text-decoration:none;
+    text-align: justify;
+    margin-bottom: 0;
+}
+
+.footer {
+    background-color: black;
+    color: blue;
+}
+
+
+
+.img-fluid {
+    max-width: 100%; 
+    height: auto;
+    background-color: black;
+    margin-top: 0%;
+}
+
+.texto4 {
+    background-color: black;
+    color: tomato;
+    text-align: center;
+    margin-left: 12%;
+    margin-right: 15%;
+    text-decoration:none;
+    text-align: justify;
+}
+
+.texto5 {
+    background-color: black;
+    color: tomato;
+    text-align: center;
+    margin-left: 12%;
+    margin-right: 15%;
+    text-decoration:none;
+    padding-bottom: 5%;
+    text-align: justify;
+}
+
+.texto6 {
+    background-color: black;
+    color: tomato;
+    text-align: center;
+    margin-left: 15%;
+    margin-right: 15%;
+    text-decoration: darkred;
+    padding-top: 7%;
+    padding-bottom: 3%;
+
+}
+
+.home {
+    font-size: 1.5em;
+    margin-left: 2%;
+    margin-right: 2%;
+
+}
+
+.botao {
+    margin-left: 2%;
+    margin-right: 2%;
+
+}
+
+
+
+
+.texto7 {
+    background-color: black;
+    color: deepskyblue;
+    text-align: center;
+    margin-left: 12%;
+    margin-right: 15%;
+    padding-bottom: 5%;
+    text-decoration: aliceblue;
+    text-align: justify;
+}
+
+.col-sm{
+    grid-row: 1 / span 2;
+}
+

@@ -1,0 +1,12 @@
+{
+    "elements": {
+        "div": {
+            "attributes": {
+                "class": {}
+            }
+        },
+        "img": {},
+        "li": {}
+    },
+    "attributes": {}
+}
